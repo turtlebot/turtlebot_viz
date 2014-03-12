@@ -4,6 +4,7 @@ Changelog for package turtlebot_interactive_markers
 
 2.2.3 (2014-03-12)
 ------------------
+* fixes velocity smoother settings
 
 2.2.2 (2013-10-25)
 ------------------
